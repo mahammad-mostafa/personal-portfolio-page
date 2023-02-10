@@ -5,7 +5,9 @@ body {
 }
 
 .wrapper {
+    width: 100%;
     padding: 0 20px;
+    box-sizing: border-box;
 }
 
 #navbar {
@@ -53,19 +55,67 @@ body {
 }
 
 #projects {
-    background-color:#45567d;
-    margin:0;
-    display: flex;
     text-align: center; 
     padding: 90px 0 50px;
+    background-color:#45567d;
+    margin:0;
 }
 
 #projects-title {
-    margin:10px;
-    padding: 0 10px;
-    color: white;
-    font-size: 40px;
-    font-weight:bold;
-    border-bottom: solid 2px white;
     display: inline-block;
+    padding: 5px 15px;
+    color: white;
+    font-size: 42px;
+    font-weight: bold;
+    border-bottom: solid 2px white;
+    margin: 10px;
+}
+
+#project-tiles {
+    display: grid;
+    gap: 40px;
+    justify-content: center;
+    grid-template-columns: repeat(3 , 400px);
+    margin: 50px 0;
+}
+
+.project-tile {
+    text-decoration: none;
+}
+
+.project-tile:hover .project-icon {
+    opacity: 1;
+}
+
+.project-image {
+    padding-top: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.project-title {
+    color: white;
+    font-size: 22px;
+    padding: 20px;
+    background-color: #303841;
+}
+
+.project-icon {
+    opacity: 0;
+    color: orange;
+    transition: opacity .5s ease;
+}
+
+#profile-link {
+    color: white;
+    font-size: 22px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #303841;
+    transition: background-color .5s ease;
+}
+
+#profile-link:hover {
+    background-color: #be3144;
 }
