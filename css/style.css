@@ -36,6 +36,7 @@ body {
     align-items: center;
     justify-content: center;
     background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    margin:0;
 }
 
 #welcome-title {
@@ -49,4 +50,22 @@ body {
     font-size: 35px;
     font-style: italic;
     margin-top: 10px;
+}
+
+#projects {
+    background-color:#45567d;
+    margin:0;
+    display: flex;
+    text-align: center; 
+    padding: 90px 0 50px;
+}
+
+#projects-title {
+    margin:10px;
+    padding: 0 10px;
+    color: white;
+    font-size: 40px;
+    font-weight:bold;
+    border-bottom: solid 2px white;
+    display: inline-block;
 }
