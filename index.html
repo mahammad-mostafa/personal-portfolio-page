@@ -9,59 +9,69 @@
   <body>
     <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
     <navbar id="navbar">
-      <a class="navbar-link" href=#welcome-section>About</a>
-      <a class="navbar-link" href=#projects>Work</a>
-      <a class="navbar-link" href=#contact>Contact</a>
+      <div class="wrapper">
+        <a class="navbar-link" href=#welcome-section>About</a>
+        <a class="navbar-link" href=#projects>Work</a>
+        <a class="navbar-link" href=#contact>Contact</a>
+      </div>
     </navbar>
     <section id="welcome-section">
-      <h1>Hey I am Mimic</h1>
-      <p>a web developer</p>
+      <div class="wrapper">
+        <h1 id="welcome-title">Hey I am Mimic</h1>
+        <p id="welcome-text">a web developer</p>
+      </div>
     </section>
     <section id="projects">
-      <h2>These are some of my projects</h2>
-      <div id="project-tiles">
-        <a class="project-tile" href="#">
-          <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg">
-          <div class="project-title">Tribute Page</div>
-        </a>
-        <a class="project-tile" href="#">
-          <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png">
-          <div class="project-title">Random Quote Machine</div>
-        </a>
-        <a class="project-tile" href="#">
-          <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png">
-          <div class="project-title">JavaScript Calculator</div>
-        </a>
-        <a class="project-tile" href="#">
-          <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg">
-          <div class="project-title">Map Data Across the Globe</div>
-        </a>
-        <a class="project-tile" href="#">
-          <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png">
-          <div class="project-title">Wikipedia Viewer</div>
-        </a>
-        <a class="project-tile" href="#">
-          <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png">
-          <div class="project-title">Tic Tac Toe Game</div>
-        </a>
+      <div class="wrapper">
+        <h2>These are some of my projects</h2>
+        <div id="project-tiles">
+          <a class="project-tile" href="#">
+            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg">
+            <div class="project-title">Tribute Page</div>
+          </a>
+          <a class="project-tile" href="#">
+            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png">
+            <div class="project-title">Random Quote Machine</div>
+          </a>
+          <a class="project-tile" href="#">
+            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png">
+            <div class="project-title">JavaScript Calculator</div>
+          </a>
+          <a class="project-tile" href="#">
+            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg">
+            <div class="project-title">Map Data Across the Globe</div>
+          </a>
+          <a class="project-tile" href="#">
+            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png">
+            <div class="project-title">Wikipedia Viewer</div>
+          </a>
+          <a class="project-tile" href="#">
+            <img class="project-image" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png">
+            <div class="project-title">Tic Tac Toe Game</div>
+          </a>
+        </div>
+        <a id="profile-link" href="#" target="_blank">Show all ></a>
       </div>
-      <a id="profile-link" href="#" target="_blank">Show all ></a>
     </section>
-    
+
     <section id="contact">
-      <h1>Let's work together...</h1>
-      <p>How do you take your coffee?</p>
-      <a class="contact-link" href="https://www.facebook.com/freecodecamp">Facebook</a>
-      <a class="contact-link" href="https://github.com/freecodecamp">GitHub</a>
-      <a class="contact-link" href="https://twitter.com/freecodecamp">Twitter</a>
-      <a class="contact-link" href="mailto:test@test.com">Send a mail</a>
-      <a class="contact-link" href="tel:+55500555">Call me</a>
+      <div class="wrapper">
+        <h1>Let's work together...</h1>
+        <p>How do you take your coffee?</p>
+        <a class="contact-link" href="https://www.facebook.com/freecodecamp">Facebook</a>
+        <a class="contact-link" href="https://github.com/freecodecamp">GitHub</a>
+        <a class="contact-link" href="https://twitter.com/freecodecamp">Twitter</a>
+        <a class="contact-link" href="mailto:test@test.com">Send a mail</a>
+        <a class="contact-link" href="tel:+55500555">Call me</a>
+      </div>
     </section>
     <footer id="footer">
-      <p>**This is just a fake portfolio. All the projects and contact details given are not real.</p>
-      <span>&copy; Created for <a href="#">FreeCodeCamp()</a></span>
+      <div class="wrapper">
+        <p>**This is just a fake portfolio. All the projects and contact details given are not real.</p>
+        <span>&copy; Created for <a href="#">FreeCodeCamp()</a></span>
+      </div>
     </footer>
     
-    <script  src="js/index.js"></script>
+    <script src="js/index.js"></script>
   </body>
 </html>

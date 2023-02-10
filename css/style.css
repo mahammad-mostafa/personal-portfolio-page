@@ -1,26 +1,52 @@
-body{
+body {
+    font-family: Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    padding: 0 20px;
 }
 
 #navbar {
-    background-color: #be3144;
     position: fixed;
-    top:0px;
+    top: 0px;
     left: 0px;
     right: 0px;
+    text-align: right;
+    background-color: #be3144;
 }
 
 .navbar-link {
-    font-size: 22px;
     display: inline-block;
-    padding:  20px 15px;
-    float: right;
     color: white;
+    font-size: 22px;
+    padding: 20px;
     text-decoration:none;
 }
 
-.navbar-link:hover{
+.navbar-link:hover {
     background-color:#45567d;
+}
+
+#welcome-section {
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+}
+
+#welcome-title {
+    color: white;
+    font-size: 60px;
+    margin: 0;
+}
+
+#welcome-text {
+    color: #be3144;
+    font-size: 35px;
+    font-style: italic;
+    margin-top: 10px;
 }
