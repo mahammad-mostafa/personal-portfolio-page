@@ -1,4 +1,26 @@
 body{
     padding: 0;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+    background-color: #be3144;
+    position: fixed;
+    top:0px;
+    left: 0px;
+    right: 0px;
+}
+
+.navbar-link {
+    font-size: 22px;
+    display: inline-block;
+    padding:  20px 15px;
+    float: right;
+    color: white;
+    text-decoration:none;
+}
+
+.navbar-link:hover{
+    background-color:#45567d;
 }
