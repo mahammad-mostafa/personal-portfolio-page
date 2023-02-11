@@ -1,5 +1,7 @@
-# FCC Test Suite Template
+# Personal portfolio page
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+This is my third trial project with **Microverse**. It is a personal portfolio landing web page built with **HTML** & **CSS** through **pair programming**.
+The project required several instructions to be followed in building HTML tags.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+Reference page design:
+https://personal-portfolio.freecodecamp.rocks
