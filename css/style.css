@@ -119,3 +119,49 @@ body {
 #profile-link:hover {
     background-color: #be3144;
 }
+
+#contact{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    background-color: #303841;
+    color:white;
+    padding: 280px 0;
+}
+
+#contact-title {
+    font-size: 50px;
+    margin: 0;
+}
+
+#contact-text{
+    font-size: 15px;
+    font-style: italic;   
+    margin:5px 0 40px;
+}
+
+.contact-link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 25px; 
+}
+
+.contact-link:hover {
+    transform: translateY();
+}
+
+#footer{
+    background-color: #303841;
+    color:white;
+    border-top: solid 3px #be3144;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#footer-p {
+    padding: 30px;
+}
+
