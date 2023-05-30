@@ -1,82 +1,83 @@
-<a name="readme-top"></a>
+<a name="title"></a>
+
+<!-- PROJECT TITLE -->
+
+# 🏷️ Personal Portfolio Page
+
+This is my third trial project with **Microverse**. Check the below contents for futher details about this project.
 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Contents
 
-- [📖 Description](#about-project)
-  - [Tech Stack](#tech-stack)
-  - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Deployment](#deployment)
-- [👥 Authors](#author)
-- [📝 License](#license)
+- [Description](#description)
+- [Instructions](#instructions)
+- [Authors](#author)
+- [License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Description <a name="about-project"></a>
+<a name="description"></a>
 
-This is my third trial project with **Microverse**. It is a personal portfolio landing web page built with **HTML** & **CSS** through **pair programming**.
+# 📖 Description
+
+It is a personal portfolio landing web page built with **HTML** & **CSS** through **pair programming**.
 The project required several instructions to be followed in building HTML tags.
 
 Reference page design:
 https://personal-portfolio.freecodecamp.rocks
 
-### Tech Stack: <a name="tech-stack"></a>
-
+**Tech Stack:**<br/>
 `HTML5` & `CSS3`
 
-### Key Features: <a name="key-features"></a>
-
+**Key Features:**
 - Responsive web page with all screen sizes
 - Hover effects on navigation menu and links 
 - Grid layout to display portfolio list
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- GETTING STARTED -->
 
-# 💻 Getting Started <a name="getting-started"></a>
+<a name="instructions"></a>
 
-You can easily download or fork this repository and work it at once!
+# 💻 Instructions
 
-### Prerequisites:
+You can easily download or fork this repository and work on it at once!
 
+**Prerequisites:**<br/>
 No prior requirements needed!
 
-### Setup:
+**Setup:**<br/>
+Simply download or fork this repository.
 
-Simply clone or fork this repository.
-
-### Deployment:
-
+**Deployment:**<br/>
 You can deploy this project by simply uploading the folder to a live server.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- AUTHOR -->
 
-# 👥 Authors <a name="author"></a>
+<a name="author"></a>
 
-### Mahammad:
+# 👥 Authors
 
+**Mahammad:**
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
-### Anibal:
-
+**Anibal:**
 - [GitHub](https://github.com/anibalesquiembre)
 
-
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
 
 <!-- LICENSE -->
 
-# 📝 License <a name="license"></a>
+<a name="license"></a>
+
+# 📝 License
 
 This project is [MIT](LICENSE.md) licensed.
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right"><a href="#title">back to top</a></p>
