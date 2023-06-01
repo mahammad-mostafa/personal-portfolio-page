@@ -1,21 +1,26 @@
 <a name="title"></a>
 
-<!-- PROJECT TITLE -->
+<!-- TITLE -->
 
 # 🏷️ Personal Portfolio Page
 
-This is my third trial project with **Microverse**. Check the below contents for futher details about this project.
+This is my third trial project with **Microverse**.
+<br/>
+Check the below contents for futher details about this project.
 
-<!-- TABLE OF CONTENTS -->
+<!-- CONTENTS -->
 
 # 📗 Contents
 
 - [Description](#description)
 - [Instructions](#instructions)
-- [Authors](#author)
+- [Authors](#authors)
+- [Contributions](#contributions)
+- [Support](#support)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+<!-- DESCRIPTION -->
 
 <a name="description"></a>
 
@@ -27,48 +32,85 @@ The project required several instructions to be followed in building HTML tags.
 Reference page design:
 https://personal-portfolio.freecodecamp.rocks
 
-**Tech Stack:**<br/>
+📌 **Tech Stack:**<br/>
 `HTML5` & `CSS3`
 
-**Key Features:**
+📌 **Key Features:**
 - Responsive web page with all screen sizes
 - Hover effects on navigation menu and links 
 - Grid layout to display portfolio list
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- GETTING STARTED -->
+<!-- INSTRUCTIONS -->
 
 <a name="instructions"></a>
 
-# 💻 Instructions
+# 🛠️ Instructions
 
-You can easily download or fork this repository and work on it at once!
+You can easily download or fork this repository and work on it immediately!
 
-**Prerequisites:**<br/>
+📌 **Prerequisites:**
+<br/>
 No prior requirements needed!
 
-**Setup:**<br/>
+📌 **Setup:**
+<br/>
 Simply download or fork this repository.
 
-**Deployment:**<br/>
+📌 **Deployment:**
+<br/>
 You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
 
-<!-- AUTHOR -->
+<!-- AUTHORS -->
 
-<a name="author"></a>
+<a name="authors"></a>
 
 # 👥 Authors
 
-**Mahammad:**
+📌 **Mahammad:**
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
-**Anibal:**
+📌 **Anibal:**
 - [GitHub](https://github.com/anibalesquiembre)
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- CONTRIBUTIONS -->
+
+<a name="contributions"></a>
+
+# 🤝🏻 Contributions
+
+Wish to contribute to this project?
+<br/>
+Contributions, issues, and feature requests are more than welcome!
+<br/>
+Feel free to check the [issues](../../issues) page too.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- SUPPORT -->
+
+<a name="support"></a>
+
+# ⭐️ Support
+
+Like this project? Show your support by starring!
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+<a name="acknowledgements"></a>
+
+# 🙏🏻 Acknowledgements
+
+I thank everyone at **Microverse** for guiding me through this project.
 
 <p align="right"><a href="#title">back to top</a></p>
 
